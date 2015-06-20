@@ -1,4 +1,4 @@
-# Work-with-data-Week3Project
+# Working with data - Getting and Cleaning data - Week 3 Project
 This repositoty contains the files that were generated to for the project of the week three of the Coursera class "Working with Data".
 This repository contains 3 files that were requested for the project:
  - This readme file.
